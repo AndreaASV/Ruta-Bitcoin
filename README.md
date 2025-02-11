@@ -1,2 +1,2 @@
-# Ruta-Bitcoin
-Mapa intercativo de comercios q acetan btc. 
+# Ruta Bitcoin
+Mapa interactivo de comercios que aceptan Bitcoin.

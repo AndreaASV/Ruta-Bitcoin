@@ -1,0 +1,6 @@
+{
+    "name": "Ruta Bitcoin",
+    "version": "0.1",
+    "description": "Mapa interactivo de comercios que aceptan Bitcoin",
+    "dependencies": ["Flask", "Requests"]
+}
